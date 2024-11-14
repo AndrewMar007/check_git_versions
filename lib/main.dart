@@ -117,7 +117,7 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: _incrementCounter,
-        tooltip: 'Decrement',
+        tooltip: 'Increment + 1',
         child: const Icon(Icons.exposure_minus_1),
       ), // This trailing comma makes auto-formatting nicer for build methods.
     );
